@@ -36,7 +36,7 @@ def sum(x,y):
 def main():
 
     '''
-    Objective       : making use of sum function
+    Objective       : using sum function
     Input Variables :
                   x : A number inputted for incrementation
                   y : A number inputted for incrementation
